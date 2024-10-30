@@ -1,0 +1,5 @@
+Image Tag
+************
+
+<img src="url"  alt="alternate name of the image"/>
+
