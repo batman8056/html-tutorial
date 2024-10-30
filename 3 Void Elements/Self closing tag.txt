@@ -1,0 +1,8 @@
+Self closing tag
+*****************
+
+Horizontal rule Element 
+<hr/>
+
+break element
+<br/>

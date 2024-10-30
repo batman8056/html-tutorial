@@ -2,3 +2,6 @@
 Paragraph Tag
 **************
 
+<p>This is paragraph</p>
+Skip the line 
+<p>This is paragraph</p>
