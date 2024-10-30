@@ -1,0 +1,8 @@
+Anchor Element
+***************
+
+syntax:
+<tag attribute=value anotherattribute=anothervalue >content></tag>
+
+eg:
+<a href="google.com">This s a link</a>
