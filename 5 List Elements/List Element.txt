@@ -1,0 +1,16 @@
+List Element
+*************
+
+Unordered List
+
+<ul>
+	<li>list1</li> create bullet point
+	<li>list2</li>
+	<li>list3</li>
+</ul>
+
+<ol>
+	<li>list1</li> create number of list
+	<li>list2</li>
+	<li>list3</li>
+</ol>
