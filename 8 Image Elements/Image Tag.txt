@@ -3,3 +3,4 @@ Image Tag
 
 <img src="url"  alt="alternate name of the image"/>
 
+<a href="hibatman.html"> <img src="./images/the-batman.jpg"/></a>
